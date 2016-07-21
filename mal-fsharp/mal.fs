@@ -1,4 +1,5 @@
 ﻿open System
+open reader
 
 let read (input : string) =
     input
